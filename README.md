@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm yanqiangmiffy</h1>
 
-<!--
-**yanqiangmiffy/yanqiangmiffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/yanqiangmiffy/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+<a href="https://github.com/MachineLP">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=yanqiangmiffy&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
+</a>
 
-- 🔭 I’m currently working on ...
+<a href="https://github.com/MachineLP">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=yanqiangmiffy&layout=compact" />
+</a>
+
+###
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
