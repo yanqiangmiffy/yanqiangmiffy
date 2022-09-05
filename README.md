@@ -54,3 +54,5 @@
 - 🥈 2022 Feedback Prize - Evaluating Student Writing 77/2060 银牌
 - 🥈 2022 第三届“马栏山”国际音频算法大赛邀请赛-商品意图识别 亚军
 - 🏅 2022 Kaggle U.S. Patent Phrase to Phrase Matching 11/1889 金牌
+- 🥉 2022 讯飞好大夫非标准化疾病诉求的简单分诊2.0挑战赛 季军
+- 🥉 2022 天池 2022 WAIC 黑客松蚂蚁财富赛道：行情波动下的金融问答挑战赛 三等奖
