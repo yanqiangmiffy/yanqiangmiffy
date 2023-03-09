@@ -54,5 +54,5 @@
 - 🥈 2022 讯飞人岗匹配算法赛 亚军
 - 🏆 2022 字节跳动安全Ai挑战赛-基于文本和多模态数据的风险识别总结  第五名
 - 🏆 2022 Feedback Prize - English Language Learning 172/2654 铜牌
-- 🥉 2022 Imagine Computing创新技术大赛赛道1:边缘云内容分发网络客户体验预测算法 季军
+- 🥉 2023 Imagine Computing创新技术大赛赛道1:边缘云内容分发网络客户体验预测算法 季军
 
