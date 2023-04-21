@@ -57,4 +57,4 @@
 - 🥉 2023 Imagine Computing创新技术大赛赛道1:边缘云内容分发网络客户体验预测算法 季军
 - 🥉 2023 Kaggle Learning Equality - Curriculum Recommendations 银牌 37/1,057 
 - 🥉 2023 Kaggle March Machine Learning Mania 2023 铜牌(Lucky!!!) 61/1033 
-
+- 🥈 2023 Kaggle IceCube - Neutrinos in Deep Ice 27/812 
