@@ -23,9 +23,9 @@
 获奖记录
 
 
-- [Kaggle](https://www.kaggle.com/quincyqiang)
+[Kaggle](https://www.kaggle.com/quincyqiang)
 
-- ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/quincyqiang/competition/light)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/quincyqiang/competition/light)
 
 - 🏆 2018 WDD大赛赛题六个人房产信用模型构建 决赛第二名
 - 🥉 2018 全国研究生数学建模大赛三等奖 
