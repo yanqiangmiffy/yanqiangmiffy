@@ -38,7 +38,7 @@
 - 🏆 2021 智源-水利知识图谱构建挑战赛-实体识别 二等奖
 - 🥈 2021 Kaggle Shopee - Price Match Guarantee 44/2426 银牌
 - 🥈 2021 Kaggle CommonLit Readability Prize 90/3633 银牌
-- 🥉 2021 Kaggle Google Brain - Ventilator Pressure Prediction
+- 🥉 2021 Kaggle Google Brain - Ventilator Pressure Prediction 铜牌
 - 🥈 2021 和鲸第一届数据传道人大赛DATA EVANGELIST 亚军
 - 🥈 2021 蚂蚁金服 ATEC2021 科技精英赛 线上赛第二名 亚军
 - 🥈 2021 讯飞好大夫非标准化疾病诉求的简单分诊挑战赛 亚军
