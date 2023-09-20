@@ -61,3 +61,4 @@
 - 🏆 2023 Kaggle Parkinson's Freezing of Gait Prediction 金牌 9/1,379  
 - 🥉 2023 天池 AFAC2023-金融数据理解-赛题2 金融行情观点生成和合规检测 季军 5/677
 - 🥉 2023 AiStudio 视频语义理解评测 三等奖	4/514
+- 🥉 2023 讯飞 人岗匹配算法赛 第一名
