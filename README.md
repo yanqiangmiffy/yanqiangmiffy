@@ -67,4 +67,4 @@
 - 🥈 2023 CommonLit - Evaluate Student Summaries 48/2,106 银牌
 - 🥉 2023 IKCEST第五届“一带一路”国际大数据竞赛 三等奖
 - 🥉 2023 ACTIC 第一届全国新建技术创新大赛 二等奖
-- 🥉 2023 天池 通义千问AI挑战赛 - Code Qwen能力算法赛道 三等奖
+- 🥉 2024 天池 通义千问AI挑战赛 - Code Qwen能力算法赛道 三等奖
