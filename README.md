@@ -69,3 +69,4 @@
 - 🥉 2023 ACTIC 第一届全国新建技术创新大赛 二等奖
 - 🥉 2023 天池 通义千问AI挑战赛 - Code Qwen能力算法赛道 三等奖
 - 🥉 2024 KDD WhoisWho 铜牌 第三名【**LLM**】
+- 🥉 2024Innovate for Future 智在畅想黑客马拉松 三等奖 【创意赛】
