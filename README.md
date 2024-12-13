@@ -74,4 +74,5 @@
 - 🏆 2024 CCKS—数字金融领域大模型能力评测 冠军 【**LLM**】
 - 🥈 2024 讯飞低资源文本翻译挑战赛 亚军
 - 🥈 2024 讯飞人岗匹配挑战赛赛季3 亚军
+- 🥈 2024 Kaggle Eedi - Mining Misconceptions in Mathematics 银牌 33/1,471
 
